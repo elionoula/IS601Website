@@ -1,6 +1,8 @@
 #Changelog
 
-## 02.18.2021
+### 02.18.2021 - [Release Website 1.0](https://elionoula.github.io/IS601Website/)
+- Task: Added Website Link to README.md and changelog.md  
+- Fix: Renamed readme.md to README.md because GitHub pages was not directing to index.html  
 - Task: Trigger GitHub Pages
 - Task: Finalized Changelog - Project Complete and Ready to Publish - EN
 - Merge pull request #13 from elionoula/FeatureChangelog - EN
@@ -8,13 +10,13 @@
 - Feature: Added Changelod.md File - EN
 - Merge pull request #12 from elionoula/website_skeleton - AC
 
-## 02.17.2021
+### 02.17.2021
 - "Task: Updating Readme" - AC
 - Merge pull request #11 from elionoula/important_people - AC
 - "Feature: Adding documentation for people webpage." - AC
 - Task: Adding images for people - AC
   
-## 02.16.2021
+### 02.16.2021
 - Merge pull request #10 from elionoula/FixAllText - EN
 - Fix: Added Break Between Text and Footer - EN
 - "Fix: Adjusting documentation for team members page." - AC
@@ -26,7 +28,7 @@
 - Fix: Fixed LName Typo in Footer - EN
 - Merge pull request #7 from elionoula/FeatureBrowserWars - EN
   
-## 02.15.2021
+### 02.15.2021
 - Task: Adding in Anik screen shot - AC
 - "Fix: Adjusting footers for all pages." - AC
 - "Fix: Adjusting nav bar." - AC
@@ -48,11 +50,11 @@
 - Fix: Found open tag in invention_doc.html - EN
 - Feature: Add Content and Image to invention_doc.html - EN
   
-## 02.13.2021
+### 02.13.2021
 - Merge pull request #3 from elionoula/website_skeleton - AC
 - "Feature: Created skeleton webpages for the project." - AC
   
-## 02.11.2021
+### 02.11.2021
 - Merge pull request #2 from elionoula/historyPage - EN
 - Feature: Setup History Page - EN
 - Merge pull request #1 from elionoula/aboutPage - EN
