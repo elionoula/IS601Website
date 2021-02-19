@@ -3,6 +3,6 @@
 ## [History of the Internet](https://elionoula.github.io/IS601Website/) 
 * Website Link: https://elionoula.github.io/IS601Website/  
 
-###Team Members:
+### Team Members:
 * Anik Chattopadhyay 
 * Elio Nicholas 
