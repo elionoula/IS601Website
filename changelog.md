@@ -1,6 +1,7 @@
 #Changelog
 
 ## 02.18.2021
+- Task: Trigger GitHub Pages
 - Task: Finalized Changelog - Project Complete and Ready to Publish - EN
 - Merge pull request #13 from elionoula/FeatureChangelog - EN
 - Task: Added all commits to Changelog - EM
